@@ -11,11 +11,11 @@ Our model has achieved the following performance metrics during the training and
 
 ### Training and Validation Accuracy
 
-![Training and Validation Accuracy](images/accuracy_graph.jpg)
+![Training and Validation Accuracy](accuracy_graph.jpg)
 
 ### Training and Validation Loss
 
-![Training and Validation Loss](images/loss_graph.jpg)
+![Training and Validation Loss](loss_graph.jpg)
 
 ## Installation
 
