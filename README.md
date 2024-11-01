@@ -9,5 +9,6 @@ https://drive.google.com/drive/folders/1jGdS3Lr1RPtvTTDocmP7LMrZckOQdgz7?usp=sha
 
 To clone the project to your local machine:
 ```bash
-git clone [repository-url]
-cd [repository-name]
+git clone https://github.com/OmerGeysoglu/Structural-Damage-Level-Classification
+
+cd Structural-Damage-Level-Classification
